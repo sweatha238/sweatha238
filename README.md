@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <p>Here are some ideas to get you started:
 - 👋 Hi, I’m @sweatha238
 - 👀 I’m interested in web designing.
-- 🌱 I’m currently studiing B.TECH..@vcet.
-- 🌱 I’m currently studing B.TECH..@vcet.
+- 🌱 I’m currently pursuing B.TECH..@vcet.
+- .
 -.  ...
 - 📫 How to reach me ...
 -
