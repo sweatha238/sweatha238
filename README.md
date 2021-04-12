@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p>Here are some ideas to get you started:
-- 👋 Hi, I’m @sweatha238
+- 👋  @sweatha238
 - 👀 I’m interested in web designing.
 - 
 - .
