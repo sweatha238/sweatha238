@@ -59,7 +59,15 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweatha238&show_icons=true&locale=en&theme=flag-india" alt="sweatha" /></p>
+### Top Languages
+
+<p align="center">
+<a href = "https://github.com/sweatha238">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=sweatha238&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweatha&label=Profile%20views&color=0e75b6&style=flat" alt="sweatha" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
