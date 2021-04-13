@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweatha238&show_icons=true&locale=en&theme=flag-india" alt="sweatha" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweatha238&show_icons=true&locale=en&theme=flag-india" alt="sweatha" /></p>
 
 
 <p align="center">
