@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 
 - .
 -.  ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/sweatha-r-9a43301b9 
 -
 
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweatha238&show_icons=true&locale=en&theme=flag-india" alt="sweatha" /></p>
-### Top Languages
+
 
 <p align="center">
 <a href = "https://github.com/sweatha238">
