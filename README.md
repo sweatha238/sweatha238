@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🤔 An intermediator in web developement and familiar with frontend works and programming.
 - 💬 I am always available  to clear all  stuffs  of yours.
 - 📫 Please email via sweatha626@gmail.com to reach me.
-- - To get to know more about me https://sweatha626.wixsite.com/my-site
+- - To get to know more about me [click here] https://sweatha626.wixsite.com/my-site
 
    
   </em>
