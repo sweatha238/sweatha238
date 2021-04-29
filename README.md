@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 <p align="left">
 <!--<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arjun" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/sweatha-r-9a43301b9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sweatha" height="30" width="40" /></a>
-<a href="https://instagram.com/sweatha_sweathu" rget="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sweatha" height="30" width="40" /></a>
+<a href="https://instagram.com/sweatha_sweathuu" rget="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sweatha" height="30" width="40" /></a>
     <a href="https://facebook.com/sweatha.sweatha9083" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sweatha" height="30" width="40" /></a>
     <a href="https://www.twitter.com/@Sweatha8111549571" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sweatha" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/shwevandhana123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sweatha" height="30" width="40" /></a>
