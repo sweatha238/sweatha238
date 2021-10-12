@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -
 
 
-🔭 I’m currently pursuing B.Tech Information Technology at [velammal college of engineering and technology](https://vcet.ac.in/)...I got recently placed in <b><u>Cognizant</b></u> with <b>5.00lpa</b> <u>(in the month of october-2021)</u></p>
+🔭 I’m currently pursuing B.Tech Information Technology at [velammal college of engineering and technology](https://vcet.ac.in/)...I got recently placed in <b><u>Cognizant</b></u> with <b>5.00lpa</b> <U>(in the month of october-2021)</U></p>
 
 <p>
   <em>
